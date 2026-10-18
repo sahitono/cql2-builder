@@ -24,7 +24,7 @@ pnpm build
 ## Usage
 
 ```ts
-import { cql } from 'cql2-builder'
+import { cql } from "cql2-builder"
 import type { Geometry } from 'geojson'
 
 interface Feature {
